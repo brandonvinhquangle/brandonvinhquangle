@@ -2,7 +2,7 @@
 
 ## Software Engineer | Student
 
-I'm currently a senior at Brigham Young University studying Computer Science. I work as a Software Engineer at Micro Focus specifically focused on CI/CD and DevOps.
+I'm currently a senior at Brigham Young University studying Computer Science. I work as a Software Engineer at Micro Focus specifically focused on CI/CD, Automation, and DevOps.
 - 🌍  I'm based in Utah
 - 📫 How to reach me: brandonvinhquangle@gmail.com
 - 😄 Pronouns: He/Him

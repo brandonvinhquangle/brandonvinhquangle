@@ -1,6 +1,6 @@
 # Brandon Vinh Le
 
-Software Engineer
+## Software Engineer
 
 I'm currently working as a Software Engineer at Micro Focus. 
 

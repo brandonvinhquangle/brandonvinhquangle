@@ -13,11 +13,9 @@ I'm currently a senior at Brigham Young University studying Computer Science. I 
 - ⚡ Fun fact: I love custom mechanical keyboards! If you ever need me to build you a custom mechanical keyboard or have any questions, feel free to ask and I'll be glad to help out in anyway!
 
 ### Skills:
--------------------------------
 
 
 ### Socials:
--------------------------------
 
 
 <!--

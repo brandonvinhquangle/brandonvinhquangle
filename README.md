@@ -2,7 +2,7 @@
 
 ## Software Engineer | Student
 
-I'm currently working as a Software Engineer at Micro Focus. 
+I'm currently a senior at Brigham Young University studying Computer Science. I work as a Software Engineer at Micro Focus specifically focused on CI/CD and DevOps.
 
 <!--
 **brandonvinhquangle/brandonvinhquangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

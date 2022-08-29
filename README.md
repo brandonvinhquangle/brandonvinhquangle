@@ -15,6 +15,9 @@ I'm currently a senior at Brigham Young University studying Computer Science. I 
 ### Skills:
 
 
+### Socials:
+
+
 <!--
 **brandonvinhquangle/brandonvinhquangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

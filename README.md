@@ -10,7 +10,10 @@ I'm currently a senior at Brigham Young University studying Computer Science. I 
 - 💬 Ask me about ...
 - 📫 How to reach me: brandonvinhquangle@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love custom mechanical keyboards! If you ever need me to build you a custom mechanical keyboard or have any questions, feel free to ask and I'll be glad to help out in anyway!
+
+### Skills:
+
 
 <!--
 **brandonvinhquangle/brandonvinhquangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi There!👋
+### Hi there👋
 ### My Name is Brandon Vinh Le
 
 <!--

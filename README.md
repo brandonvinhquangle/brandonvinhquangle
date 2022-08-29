@@ -1,5 +1,9 @@
 # Brandon Vinh Le
 
+Software Engineer
+
+I'm currently working as a Software Engineer at Micro Focus. 
+
 <!--
 **brandonvinhquangle/brandonvinhquangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

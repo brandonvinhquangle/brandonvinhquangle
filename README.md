@@ -1,4 +1,4 @@
-# Brandon Vinh Lê
+# Brandon Vinh Le
 
 ## Software Engineer | Student
 

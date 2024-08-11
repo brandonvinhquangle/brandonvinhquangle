@@ -1,8 +1,8 @@
 # Brandon Vinh Le
 
-## Software Engineer | Student
+## Software Engineer | OpenText
 
-I'm currently a senior at Brigham Young University studying Computer Science. I work as a Software Engineer at OpenText specifically focused on CI/CD, Automation, and DevOps.
+I'm currently a Software Engineer at OpenText where I focus on Back-End Development, Infrastructure, Security, and DevOps. I attended BYU where I majored in Computer Science and received a minor in Business.
 - 🌍  I'm based in Utah
 - 📫 How to reach me: brandonvinhquangle@gmail.com
 - 😄 Pronouns: He/Him

@@ -7,6 +7,8 @@ I’m currently a Back-End and DevOps Engineer with a strong foundation in cloud
 In addition to back-end development, I manage CI/CD automation environments using tools like Jenkins, Rancher, and Docker, ensuring streamlined deployments and high system availability. As a Security Advocate, I’ve conducted static and dynamic code analyses, audits, and aligned engineering efforts with the OWASP Top 10, reinforcing security from development to deployment.
 
 With a background in Agile practices and experience as a Scrum Master, I’m passionate about building efficient engineering teams, writing clean, secure code, and delivering products that scale.
+
+### About Me:
 - 🌍  I'm based in Utah
 - 📫 How to reach me: brandonvinhquangle@gmail.com
 - 😄 Pronouns: He/Him

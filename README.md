@@ -16,7 +16,7 @@ With a background in Agile practices and experience as a Scrum Master, I’m pas
 - **Cloud & DevOps:** AWS Cloud Computing (EKS, RDS, EC2, S3, Lambda, DynamoDB, API Gateway, SQS), Terraform, Terragrunt, Kubernetes, Helm, Jenkins, Docker, Rancher
 - **Languages:** Python, Java, C++, C, JavaScript, Swift, SQL
 - **Front-End:** React.js, Vue.js, HTML/CSS, SwiftUI
-- Tools & Platforms: Git, Linux, MacOS, Windows, vSphere
+- **Tools & Platforms:** Git, Linux, MacOS, Windows, vSphere
 
 ### Socials:
 - [LinkedIn](https://www.linkedin.com/in/brandonvinhquangle/)

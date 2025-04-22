@@ -13,13 +13,13 @@ With a background in Agile practices and experience as a Scrum Master, I’m pas
 - ⚡ Fun fact: I love custom mechanical keyboards! If you ever need me to build you a custom mechanical keyboard or have any questions, feel free to ask and I'll be glad to help out in anyway!
 
 ### Skills:
-- Cloud & DevOps: AWS (EKS, RDS, EC2, S3, Lambda, DynamoDB, API Gateway, SQS), Terraform, Terragrunt, Kubernetes, Helm, Jenkins, Docker, Rancher
-- Languages: Python, Java, C++, C, JavaScript, Swift, SQL
-- Front-End: React.js, Vue.js, HTML/CSS, SwiftUI
+- **Cloud & DevOps:** AWS Cloud Computing (EKS, RDS, EC2, S3, Lambda, DynamoDB, API Gateway, SQS), Terraform, Terragrunt, Kubernetes, Helm, Jenkins, Docker, Rancher
+- **Languages:** Python, Java, C++, C, JavaScript, Swift, SQL
+- **Front-End:** React.js, Vue.js, HTML/CSS, SwiftUI
 - Tools & Platforms: Git, Linux, MacOS, Windows, vSphere
 
 ### Socials:
-LinkedIn [https://www.linkedin.com/in/brandonvinhquangle/]
+- [LinkedIn](https://www.linkedin.com/in/brandonvinhquangle/)
 
 <!--
 **brandonvinhquangle/brandonvinhquangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

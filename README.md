@@ -1,12 +1,16 @@
 # Brandon Vinh Le
 
-## Software Engineer | OpenText
+## DevOps Engineer | FIXD Automotive, Inc.
 
-I’m currently a Back-End and DevOps Engineer with a strong foundation in cloud infrastructure, security, and automation. At OpenText, I’ve led the migration of legacy On-Prem products to AWS-based SaaS architectures, leveraging Terraform, Terragrunt, Helm, and Kubernetes to modernize and scale our solutions. I’ve also worked extensively on our authorization service, developing secure API endpoints in Python and Java to manage user access and permissions.
+I'm a DevOps & Cloud Infrastructure Engineer focused on building resilient, secure, and scalable systems in the cloud. My passion lies in designing clean, automated infrastructure and empowering development teams with reliable CI/CD pipelines and self-service tooling.
 
-In addition to back-end development, I manage CI/CD automation environments using tools like Jenkins, Rancher, and Docker, ensuring streamlined deployments and high system availability. As a Security Advocate, I’ve conducted static and dynamic code analyses, audits, and aligned engineering efforts with the OWASP Top 10, reinforcing security from development to deployment.
+I specialize in Infrastructure as Code (IaC) — building modular, reusable Terraform and Terragrunt configurations to manage everything from Kubernetes clusters to VPCs and IAM. At OpenText, I led a major cloud migration effort, moving on-prem applications to AWS and replacing manual infrastructure with a fully automated, Terraform-driven setup, orchestrated with Helm and Kubernetes.
 
-With a background in Agile practices and experience as a Scrum Master, I’m passionate about building efficient engineering teams, writing clean, secure code, and delivering products that scale.
+I’ve also developed secure back-end APIs for an Authorization Service in Python and Java, and automated deployment pipelines with Jenkins, GitLab CI, and Docker. These efforts have accelerated releases and improved system consistency across environments.
+
+As a Security Advocate, I enforce secure coding and deployment practices using static/dynamic analysis tools, aligned with the OWASP Top 10. I also served as a Scrum Master, helping teams move fast without compromising quality or safety.
+
+I take pride in crafting infrastructure that's modular, version-controlled, and built to scale, whether provisioning cloud-native platforms or optimizing pipelines from code to production.
 
 ### About Me:
 - 🌍  I'm based in Utah
